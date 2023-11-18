@@ -2,4 +2,4 @@
 
 Author: Yingzi Jin
 
-Solving merge conflicts takes conscious effort, but I can do it!
+Solving merge conflicts is soooooo hard!
